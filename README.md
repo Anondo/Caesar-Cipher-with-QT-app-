@@ -7,7 +7,7 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 ###Out-look
 ![software preview](https://raw.githubusercontent.com/Anondo/Caesar-Cipher-with-QT-app-/master/AAACC.jpg)
 
-###What is does :
+###What it does :
 - Takes characters from anyone of the text boxes
 - Adds(cipher) or substracts(decipher) each of the alphabets by the shift number
 - Displays the result in the other text box
